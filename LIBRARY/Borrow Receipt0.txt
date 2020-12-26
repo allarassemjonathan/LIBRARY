@@ -1,0 +1,6 @@
+Borrow Receipt
+Book name: ROME
+Book price: $99
+Username: jo
+Date and time: null
+Due Date : 2020-12-24

@@ -1,0 +1,8 @@
+						LIBRARY SERVICE
+-----------------------------------------------------------------------
+
+	Welcome to our library service. We provide basics interactions to users
+they can buy or borrow a book or just search for one. Some of the options a
+re available other not but hey, you can still use it and enjoy! 
+									
+													Happy Reading!

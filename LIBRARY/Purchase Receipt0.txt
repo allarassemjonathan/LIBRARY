@@ -1,0 +1,5 @@
+Purchase Receipt
+Book name: BIBLE
+Book price: $100
+Username: jonathan
+Date and time: 2020-12-17
